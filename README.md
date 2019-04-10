@@ -1,0 +1,2 @@
+# houseprediction
+One of the very important considerations while buying a house is the valuation of the house after some years from now. How would a Real-Estate company decide the current sale price of a new apartment? Housing price is not just dependent on what locality it belongs to. There are more factors responsible for this dynamic pricing. In this project, we evaluate the statistical relationships between the different independent variables and the housing price and design a model which can predict the sale price of a property based on these variables.
